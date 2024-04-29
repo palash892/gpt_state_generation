@@ -1,6 +1,6 @@
 # gpt_state_generation
 
-This code has been written with the help of the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).
+This code for the GPT model has been written with the help of the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).
 
 # Code Requirements
 

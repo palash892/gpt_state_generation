@@ -60,7 +60,7 @@ print('loaded successfully!')
 
 
 prompt = np.loadtxt("inference_data.txt")
-prompt = prompt[:200]
+prompt = prompt[:128]
 context = torch.tensor(prompt, dtype=torch.long, device=device)
 generated_chars = model.generate(context.unsqueeze(0), block_size = block_size, max_new_tokens=200000)[0].tolist()
 np.savetxt(f"generated_state_from_gpt_3state_latent_2d_run_{my_count}.txt", np.array([generated_chars]).T, fmt = "%d")

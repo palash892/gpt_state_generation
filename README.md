@@ -11,6 +11,7 @@ Ensure you have the following Python packages installed to run the code:
 3. [PyTorch](https://pytorch.org/)
 
 # Package version
+1. Python (3.11.5)
 
 # How to run the code
 

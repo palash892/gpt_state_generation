@@ -12,6 +12,9 @@ Ensure you have the following Python packages installed to run the code:
 
 # Package version
 1. Python (3.11.5)
+2. Numpy  (1.26.4)
+3. PyTorch (2.2.0)
+4. Tensorflow (2.15.0)
 
 # How to run the code
 

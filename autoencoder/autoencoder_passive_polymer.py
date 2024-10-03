@@ -97,6 +97,7 @@ for f in range(1, 6, 1):
     AE.compile(optimizer=optimizer, loss='mse')
     batch_size = 100
     epochs = 500
+    #we are not using best model, we are using the model parameter for last Epochs 
     checkpoint = tf.keras.callbacks.ModelCheckpoint(filepath=f"save_model_polymer_best/save_model_polymer_latent_dim_{latent_dim}_best.keras", monitor='val_accuracy', save_best_only=True, mode='max')
     history = AE.fit(input_data, input_data, epochs=epochs, shuffle=True, batch_size=batch_size,validation_split=0.1, callbacks=[checkpoint])
 

@@ -1,4 +1,7 @@
-# gpt_state_generation
+# Generative Pre-trained Transformer model for future state prediction
+
+Welcome to the repository for the research project titled **"Predicting the Kinetic Sequence of States in Physicochemical Systems Using Generative Pre-trained Transformer"**
+
 
 This code for the GPT model has been written with the help of the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).
 

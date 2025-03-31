@@ -3,7 +3,7 @@
 Welcome to the repository for the research project titled **"Predicting the Kinetic Sequence of States in Physicochemical Systems Using Generative Pre-trained Transformer"**
 
 
-This code for the GPT model has been written with the help of the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).
+This implementation of the GPT model has been adapted from the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).
 
 # A schematic representation of training data preparation and the architecture of the decoder-only transformer.
 

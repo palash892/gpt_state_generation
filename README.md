@@ -29,4 +29,6 @@ Ensure you have the following Python packages installed to run the code:
 
 There are mainly two folders, `autoencoder` and `gpt_model`, which contain their corresponding code for training the model. For `gpt_model`, the data for all of the systems are provided. The folder contains the data for training, validation, and generation. After completion of the training by running the Python scripts `train_gpt_model.py`, one can generate as many sequences as possible by running the Python script `inference.py`.
 
+## News! 
+
 

@@ -1,6 +1,6 @@
 # Generative Pre-trained Transformer model for future state prediction
 
-Welcome to the repository for the research project titled **"Predicting the Kinetic Sequence of States in Physicochemical Systems Using Generative Pre-trained Transformer"**
+Welcome to the repository for the research project titled **"Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence"**
 
 
 This implementation of the GPT model has been adapted from the following GitHub page: [Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms).

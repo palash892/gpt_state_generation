@@ -29,6 +29,21 @@ Ensure you have the following Python packages installed to run the code:
 
 There are mainly two folders, `autoencoder` and `gpt_model`, which contain their corresponding code for training the model. For `gpt_model`, the data for all of the systems are provided. The folder contains the data for training, validation, and generation. After completion of the training by running the Python scripts `train_gpt_model.py`, one can generate as many sequences as possible by running the Python script `inference.py`.
 
-## News! 
+## News!
+Publication Alert 🚀
+
+
+This work is now published in **Chemical Science**!🎉
+
+🔍 Key Findings:
+
+- Our study presents a novel application of the transformer model, a deep learning architecture that has revolutionized natural language processing, to the domain of molecular dynamics (MD) simulations. Specifically, we utilize the Generative Pre-trained Transformer (GPT) to predict the future states of molecular trajectories, offering a powerful tool for exploring the kinetics as well as thermodynamics of physicochemical systems.
+- Our study significantly expands this scope by leveraging GPT, a more advanced language model to tackle systems of far greater complexity, ranging from simple multi-state models to challenging biomolecular systems like the Trp-cage protein, intrinsically disordered protein α-Synuclein, and an active, out-of-equilibrium polymer system.
+- By utilizing the self-attention mechanism of GPT, our model effectively captures the intricate syntactic and semantic relationships inherent in MD trajectories. This capability enables accurate prediction of future states with both kinetic and thermodynamic fidelity, even for complex systems. Our results also reveal that the self-attention mechanism plays a crucial role in capturing long-range dependencies, which are essential for precise state-to-state transitions.
+- We conducted rigorous comparisons with traditional Markov State Models (MSMs) and language model such as LSTM networks, demonstrating that GPT consistently outperforms these methods in prediction accuracy. This advancement shows GPT’s ability to address key limitations of existing methods and speed up predictions in MD simulations.
+
+📖 Check out the full study [here](https://pubs.rsc.org/en/Content/ArticleLanding/2025/SC/D5SC00108K) for more insights!
+
+Stay tuned for more exciting updates!  
 
 
